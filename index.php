@@ -3,7 +3,8 @@
 	require 'banner.php';
 	require 'nav.php';
 	require 'maincontainer.php';
-	require 'layout.php';
+        require 'footer.php';
+        require 'layout.php';
 ?>
 
 

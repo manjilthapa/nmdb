@@ -1,6 +1,6 @@
 <?php
 
-$containerOut.= "THis is first page";
+$containerOut.= "This is first page";
 
 
 ?>
